@@ -62,7 +62,7 @@ public class AppMain {
         System.out.println("/·._.·\\·._.· Hello People ·._.·/·._.·\\");
     }
     public static void printCaterpillar() {
-        System.out.println(",/\\,/\\,/\\,/\\,/\\,/\\,o ");
+        System.out.println(",/\\,/\\,/\\,/\\,/\\,/\\,o");
     }
     public static void printProfessor() {
         System.out.println("\"\"/('_')\\\"\"");
