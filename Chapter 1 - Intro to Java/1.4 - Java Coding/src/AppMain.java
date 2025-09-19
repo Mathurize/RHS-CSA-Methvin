@@ -49,27 +49,71 @@ public class AppMain {
         System.out.println("><(((('>");
     }
     public static void printCat() {
-        // TODO - YOUR CODE GOES HERE
+       System.out.println("=^..^=");
     }
     public static void printRose() {
-        // TODO - YOUR CODE GOES HERE
+        System.out.println("--------{---(@");
     }
+    
     public static void printWorm() {
-        // TODO - YOUR CODE GOES HERE
+        System.out.println("_/\\__/\\__0>");
     }
     public static void printPersonalMessage() {
-        // TODO - YOUR CODE GOES HERE
+        System.out.println("/·._.·\\·._.· Hello People ·._.·/·._.·\\");
     }
     public static void printCaterpillar() {
-        // TODO - YOUR CODE GOES HERE
+        System.out.println(",/\\,/\\,/\\,/\\,/\\,/\\,o ");
     }
     public static void printProfessor() {
-        // TODO - YOUR CODE GOES HERE
+        System.out.println("\"\"/('_')\\\"\"");
     }
     public static void printIDontKnow() {
-        // TODO - YOUR CODE GOES HERE
+        System.out.println("'\\_(*_*)_/'");
     }
     public static void printMickey() {
-        // TODO - YOUR CODE GOES HERE
+        System.out.println("""
+                                                        _____\r
+                                                        .d88888888bo.\r
+                                                       .d8888888888888b.\r
+                                                       8888888888888888b\r
+                                                       888888888888888888\r
+                                                       888888888888888888\r
+                                                       Y8888888888888888\r
+                                                  ,od888888888888888888P\r
+                                               .'`Y8P'```'Y8888888888P'\r
+                                             .'_   `  _     'Y88888888b\r
+                                            /  _`    _ `      Y88888888b   ____\r
+                                        _  | /  \\  /  \\      8888888888.d888888b.\r
+                                       d8b | | /|  | /|      8888888888d8888888888b\r
+                                       8888_\\ \\_|/  \\_|/      d888888888888888888888b\r
+                                       .Y8P  `'-.            d88888888888888888888888\r
+                                       /          `          `      `Y8888888888888888\r
+                                       |                        __    888888888888888P\r
+                                       \\                       / `   dPY8888888888P'\r
+                                       '._                  .'     .'  `Y888888P`\r
+                                           `"'-.,__    ___.-'    .-'\r
+                                               `-._````  __..--'`\r
+                                                   ``````""" //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        //
+        );
     }
 }
