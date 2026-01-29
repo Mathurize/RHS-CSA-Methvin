@@ -111,7 +111,7 @@ public class TankAI extends TankAIBase {
                 }
 
                 double stepAlign = Vec2.dot(myDir, bestStep.unit());
-                if (stepAlign < 3.00) {
+                if (stepAlign < 0.90) {
                     return queueCmd("turn", bestStep);
                 } else {
                     return queueCmd("move", bestStep);
